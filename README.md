@@ -18,7 +18,7 @@
 # 📊 GitHub Stats:
 <div align="center" style="display: inline_block">
   <a href="https://github.com/IsackScript">
-  <img align="left" height="150" alt="gráfico stats" src="https://github-readme-stats.vercel.app/api?username=IsackScript&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
+  <img height="150" alt="gráfico stats" src="https://github-readme-stats.vercel.app/api?username=IsackScript&show_icons=true&theme=gruvbox&include_all_commits=true&count_private=true"/>
   <img height="150" alt="gráfico linguagens" src="https://github-readme-stats.vercel.app/api/top-langs/?username=IsackScript&layout=compact&langs_count=7&theme=gruvbox"/>
 </div>
 
