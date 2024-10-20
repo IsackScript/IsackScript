@@ -4,7 +4,7 @@
  - 🔭 Estudante de Ciência da Computação
  - 👩🏽‍💻 Aprendendo Front-end
  - 🔮 Apaixonado por programação
- - 🗯️ Estou a procura de Estágio
+ - 🗯️ Estou à procura de Estágio
 
 # 💻 Habilidades:
 <div style="display: inline_block"<br />
